@@ -1,0 +1,67 @@
+C:\Users\Karthik Sriram\Documents\SOFTENG 750\droidgrow\PillAssistant_Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin.iOS\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\Users\Karthik Sriram\Documents\SOFTENG 750\droidgrow\PillAssistant_Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin.iOS\obj\iPhone\Debug\actool\_PartialAppManifest.items
+C:\Users\Karthik Sriram\Documents\SOFTENG 750\droidgrow\PillAssistant_Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin.iOS\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Users\Karthik Sriram\Documents\SOFTENG 750\droidgrow\PillAssistant_Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin.iOS\obj\iPhone\Debug\coremlc\_PartialAppManifest.items
+C:\Users\Karthik Sriram\Documents\SOFTENG 750\droidgrow\PillAssistant_Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin.iOS\obj\iPhone\Debug\coremlc\_BundleResourceWithLogicalName.items
+C:\Users\Karthik Sriram\Documents\SOFTENG 750\droidgrow\PillAssistant_Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin.iOS\obj\iPhone\Debug\optimized\
+C:\Users\Karthik Sriram\Documents\SOFTENG 750\droidgrow\PillAssistant_Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin.iOS\obj\iPhone\Debug\PillAssistant_Xamarin.iOS.csprojResolveAssemblyReference.cache
+C:\Users\Karthik Sriram\Documents\SOFTENG 750\droidgrow\PillAssistant_Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin.iOS\obj\iPhone\Debug\PillAssistant_Xamarin.iOS.csproj.CoreCompileInputs.cache
+C:\Users\Karthik Sriram\Documents\SOFTENG 750\droidgrow\PillAssistant_Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin.iOS\obj\iPhone\Debug\PillAssistant_Xamarin.iOS.PickerCellView.xaml.g.cs
+C:\Users\Karthik Sriram\Documents\SOFTENG 750\droidgrow\PillAssistant_Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin.iOS\obj\iPhone\Debug\PillAssistant_Xamarin.iOS.EditReminderPage.xaml.g.cs
+C:\Users\Karthik Sriram\Documents\SOFTENG 750\droidgrow\PillAssistant_Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin.iOS\obj\iPhone\Debug\PillAssistant_Xamarin.iOS.HomePage.xaml.g.cs
+E:\Jason\Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin.iOS\bin\iPhone\Debug\PillAssistant_Xamarin.iOS.exe
+E:\Jason\Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin.iOS\bin\iPhone\Debug\PillAssistant_Xamarin.iOS.pdb
+E:\Jason\Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.dll
+E:\Jason\Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.pdb
+E:\Jason\Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.dll
+E:\Jason\Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.dll
+E:\Jason\Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.pdb
+E:\Jason\Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.dll
+E:\Jason\Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.pdb
+E:\Jason\Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin.iOS\bin\iPhone\Debug\ar\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Jason\Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin.iOS\bin\iPhone\Debug\ca\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Jason\Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin.iOS\bin\iPhone\Debug\cs\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Jason\Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin.iOS\bin\iPhone\Debug\da\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Jason\Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin.iOS\bin\iPhone\Debug\de\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Jason\Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin.iOS\bin\iPhone\Debug\el\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Jason\Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin.iOS\bin\iPhone\Debug\es\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Jason\Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin.iOS\bin\iPhone\Debug\fi\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Jason\Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin.iOS\bin\iPhone\Debug\fr\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Jason\Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin.iOS\bin\iPhone\Debug\he\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Jason\Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin.iOS\bin\iPhone\Debug\hi\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Jason\Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin.iOS\bin\iPhone\Debug\hr\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Jason\Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin.iOS\bin\iPhone\Debug\hu\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Jason\Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin.iOS\bin\iPhone\Debug\id\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Jason\Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin.iOS\bin\iPhone\Debug\it\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Jason\Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin.iOS\bin\iPhone\Debug\ja\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Jason\Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin.iOS\bin\iPhone\Debug\ko\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Jason\Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin.iOS\bin\iPhone\Debug\ms\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Jason\Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin.iOS\bin\iPhone\Debug\nb\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Jason\Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin.iOS\bin\iPhone\Debug\nl\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Jason\Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin.iOS\bin\iPhone\Debug\pl\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Jason\Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin.iOS\bin\iPhone\Debug\pt-BR\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Jason\Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin.iOS\bin\iPhone\Debug\pt\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Jason\Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin.iOS\bin\iPhone\Debug\ro\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Jason\Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin.iOS\bin\iPhone\Debug\ru\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Jason\Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin.iOS\bin\iPhone\Debug\sk\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Jason\Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin.iOS\bin\iPhone\Debug\sv\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Jason\Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin.iOS\bin\iPhone\Debug\th\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Jason\Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin.iOS\bin\iPhone\Debug\tr\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Jason\Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin.iOS\bin\iPhone\Debug\uk\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Jason\Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin.iOS\bin\iPhone\Debug\vi\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Jason\Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin.iOS\bin\iPhone\Debug\zh-HK\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Jason\Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin.iOS\bin\iPhone\Debug\zh-Hans\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Jason\Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin.iOS\bin\iPhone\Debug\zh-Hant\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Jason\Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin.iOS\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
+E:\Jason\Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin.iOS\obj\iPhone\Debug\actool\_PartialAppManifest.items
+E:\Jason\Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin.iOS\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+E:\Jason\Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin.iOS\obj\iPhone\Debug\coremlc\_PartialAppManifest.items
+E:\Jason\Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin.iOS\obj\iPhone\Debug\coremlc\_BundleResourceWithLogicalName.items
+E:\Jason\Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin.iOS\obj\iPhone\Debug\optimized\
+E:\Jason\Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin.iOS\obj\iPhone\Debug\PillAssistant_Xamarin.iOS.csproj.CoreCompileInputs.cache
+E:\Jason\Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin.iOS\obj\iPhone\Debug\PillAssistant_Xamarin.iOS.PickerCellView.xaml.g.cs
+E:\Jason\Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin.iOS\obj\iPhone\Debug\PillAssistant_Xamarin.iOS.EditReminderPage.xaml.g.cs
+E:\Jason\Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin.iOS\obj\iPhone\Debug\PillAssistant_Xamarin.iOS.HomePage.xaml.g.cs
+E:\Jason\Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin.iOS\obj\iPhone\Debug\PillAssistant_Xamarin.iOS.csproj.CopyComplete
+E:\Jason\Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin.iOS\obj\iPhone\Debug\PillAssistant_Xamarin.iOS.exe
+E:\Jason\Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin.iOS\obj\iPhone\Debug\PillAssistant_Xamarin.iOS.pdb

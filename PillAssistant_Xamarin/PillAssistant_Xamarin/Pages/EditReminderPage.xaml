@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PillAssistant_Xamarin.Pages.EditReminderPage"
+             xmlns:cells="clr-namespace:PillAssistant_Xamarin.Cells"
+                       xmlns:sys="clr-namespace:System;assembly=mscorlib"
+                       xmlns:vm="clr-namespace:PillAssistant_Xamarin.ViewModels.Cells"
+                       >
+    <ContentPage.Padding>
+        <OnPlatform x:TypeArguments="Thickness">
+            <OnPlatform.iOS>
+                0, 20, 0, 0
+            </OnPlatform.iOS>
+            <OnPlatform.Android>
+                0, 0, 0, 0
+            </OnPlatform.Android>
+            <OnPlatform.WinPhone>
+                0, 0, 0, 0
+            </OnPlatform.WinPhone>
+        </OnPlatform>
+    </ContentPage.Padding>
+    <StackLayout>
+        <TableView>
+            <TableView.Root>
+                <TableSection Title="Pill Information">
+                    <EntryCell Label="Pill Name  " Text="{Binding Name, Mode=TwoWay}"></EntryCell>
+                    <EntryCell Label="Pill Identification No" Text="{Binding PillIdentificationNo, Mode=TwoWay}"></EntryCell>
+                    <ImageCell ImageSource="{Binding PillPhoto}" Text="{Binding PillType, Mode=TwoWay}" Command="{Binding ChoosePillTypeCommand}" ></ImageCell>
+                    <ViewCell>
+                        <StackLayout Padding="20,5,5,5" HorizontalOptions="Fill" Orientation="Horizontal">
+                            <Label x:Name="pickerText"  Text="Last Consumption Detail" HorizontalOptions="FillAndExpand" YAlign="Center"/>
+                            <DatePicker x:Name="datePicker"  Date="{Binding LastConsumedDate, Mode=TwoWay}" Format="d" HorizontalOptions="Fill" >
+                            </DatePicker>
+                        </StackLayout>
+                    </ViewCell>
+                    <cells:PickerCell x:TypeArguments="vm:PillIntervalPickerCellViewModel">
+                    </cells:PickerCell>
+                    <TextCell Text="Next Consumption Detail"  Detail="{Binding NextDateToBeConsumed}"></TextCell>
+                </TableSection>
+                <TableSection Title="Reminder Settings">
+                    <SwitchCell Text="Remind me" On="{Binding IsReminder, Mode=TwoWay}" ></SwitchCell>
+                    <cells:PickerCell x:TypeArguments="vm:RemindMePickerCellViewModel">
+                    </cells:PickerCell>
+                </TableSection>
+
+            </TableView.Root>
+        </TableView>
+
+    </StackLayout>
+
+</ContentPage>

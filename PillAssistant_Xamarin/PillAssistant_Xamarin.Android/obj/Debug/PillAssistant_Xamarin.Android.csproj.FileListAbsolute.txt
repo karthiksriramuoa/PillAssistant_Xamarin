@@ -1,0 +1,60 @@
+C:\Users\Karthik Sriram\Documents\SOFTENG 750\droidgrow\PillAssistant_Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin.Android\obj\Debug\PillAssistant_Xamarin.Android.csprojResolveAssemblyReference.cache
+C:\Users\Karthik Sriram\Documents\SOFTENG 750\droidgrow\PillAssistant_Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin.Android\obj\Debug\PillAssistant_Xamarin.Android.csproj.CoreCompileInputs.cache
+C:\Users\Karthik Sriram\Documents\SOFTENG 750\droidgrow\PillAssistant_Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin.Android\obj\Debug\PillAssistant_Xamarin.Droid.Cells.PickerCellView.xaml.g.cs
+C:\Users\Karthik Sriram\Documents\SOFTENG 750\droidgrow\PillAssistant_Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin.Android\obj\Debug\PillAssistant_Xamarin.Droid.Pages.EditReminderPage.xaml.g.cs
+C:\Users\Karthik Sriram\Documents\SOFTENG 750\droidgrow\PillAssistant_Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin.Android\obj\Debug\PillAssistant_Xamarin.Droid.Pages.HomePage.xaml.g.cs
+E:\Jason\Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin.Android\bin\Debug\PillAssistant_Xamarin.Android.dll
+E:\Jason\Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin.Android\bin\Debug\PillAssistant_Xamarin.Android.pdb
+E:\Jason\Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin.Android\bin\Debug\com.companyname.PillAssistant_Xamarin.apk
+E:\Jason\Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin.Android\bin\Debug\com.companyname.PillAssistant_Xamarin-Signed.apk
+E:\Jason\Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin.Android\obj\Debug\PillAssistant_Xamarin.Android.csproj.CoreCompileInputs.cache
+E:\Jason\Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin.Android\obj\Debug\PillAssistant_Xamarin.Droid.Cells.PickerCellView.xaml.g.cs
+E:\Jason\Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin.Android\obj\Debug\PillAssistant_Xamarin.Droid.Pages.EditReminderPage.xaml.g.cs
+E:\Jason\Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin.Android\obj\Debug\PillAssistant_Xamarin.Droid.Pages.HomePage.xaml.g.cs
+E:\Jason\Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin.Android\obj\Debug\PillAssistant_Xamarin.Android.dll
+E:\Jason\Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin.Android\obj\Debug\PillAssistant_Xamarin.Android.pdb
+E:\Jason\Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin.Android\obj\Debug\android\bin\com.companyname.PillAssistant_Xamarin.apk
+E:\Jason\Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin.Android\obj\Debug\res\drawable\icon.png
+E:\Jason\Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin.Android\obj\Debug\res\drawable-hdpi\icon.png
+E:\Jason\Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin.Android\obj\Debug\res\drawable-xhdpi\icon.png
+E:\Jason\Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin.Android\obj\Debug\res\drawable-xxhdpi\icon.png
+E:\Jason\Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin.Android\obj\Debug\res\layout\tabbar.xml
+E:\Jason\Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin.Android\obj\Debug\res\layout\toolbar.xml
+E:\Jason\Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin.Android\obj\Debug\res\values\styles.xml
+E:\Jason\Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin.Android\obj\Debug\res\drawable\bike.png
+E:\Jason\Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin.Android\obj\Debug\res\drawable\car.png
+E:\Jason\Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin.Android\obj\Debug\res\drawable\other.png
+E:\Jason\Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin.Android\obj\Debug\R.cs.flag
+E:\Jason\Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin.Android\obj\Debug\uploadflags.txt
+E:\Jason\Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin.Android\bin\Debug\PillAssistant_Xamarin.Android.dll
+E:\Jason\Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin.Android\bin\Debug\Mono.Android.pdb
+E:\Jason\Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin.Android\bin\Debug\mscorlib.pdb
+E:\Jason\Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin.Android\bin\Debug\System.Core.pdb
+E:\Jason\Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin.Android\bin\Debug\System.pdb
+E:\Jason\Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin.Android\bin\Debug\System.Xml.pdb
+E:\Jason\Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin.Android\bin\Debug\System.Xml.Linq.pdb
+E:\Jason\Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin.Android\bin\Debug\System.Net.Http.pdb
+E:\Jason\Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin.Android\bin\Debug\System.Runtime.Serialization.pdb
+E:\Jason\Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin.Android\bin\Debug\System.ServiceModel.Internals.pdb
+E:\Jason\Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin.Android\bin\Debug\Mono.Security.pdb
+E:\Jason\Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin.Android\bin\Debug\System.ComponentModel.Composition.pdb
+E:\Jason\Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin.Android\obj\Debug\linksrc\Mono.Android.pdb
+E:\Jason\Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin.Android\obj\Debug\linksrc\mscorlib.pdb
+E:\Jason\Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin.Android\obj\Debug\linksrc\System.Core.pdb
+E:\Jason\Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin.Android\obj\Debug\linksrc\System.pdb
+E:\Jason\Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin.Android\obj\Debug\linksrc\System.Xml.pdb
+E:\Jason\Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin.Android\obj\Debug\linksrc\System.Xml.Linq.pdb
+E:\Jason\Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin.Android\obj\Debug\linksrc\System.Net.Http.pdb
+E:\Jason\Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin.Android\obj\Debug\linksrc\System.Runtime.Serialization.pdb
+E:\Jason\Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin.Android\obj\Debug\linksrc\System.ServiceModel.Internals.pdb
+E:\Jason\Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin.Android\obj\Debug\linksrc\Mono.Security.pdb
+E:\Jason\Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin.Android\obj\Debug\linksrc\System.ComponentModel.Composition.pdb
+E:\Jason\Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin.Android\bin\Debug\FormsViewGroup.dll.mdb
+E:\Jason\Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin.Android\bin\Debug\Xamarin.Forms.Core.dll.mdb
+E:\Jason\Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+E:\Jason\Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin.Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+E:\Jason\Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin.Android\obj\Debug\linksrc\PillAssistant_Xamarin.Android.dll.mdb
+E:\Jason\Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin.Android\obj\Debug\linksrc\FormsViewGroup.dll.mdb
+E:\Jason\Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin.Android\obj\Debug\linksrc\Xamarin.Forms.Core.dll.mdb
+E:\Jason\Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin.Android\obj\Debug\linksrc\Xamarin.Forms.Platform.Android.dll.mdb
+E:\Jason\Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin\PillAssistant_Xamarin.Android\obj\Debug\linksrc\Xamarin.Forms.Xaml.dll.mdb

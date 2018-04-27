@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PillAssistant_Xamarin.Pages.HomePage"
+             xmlns:custom="clr-namespace:PillAssistant_Xamarin.CustomControls">
+             >
+    <ContentPage.Content>
+        
+        <ListView x:Name="listView">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <custom:CustomImageCell ImageSource="{Binding PillPhoto}" Text="{Binding Name}" Detail="{Binding Path=NextDateToConsume}">
+
+                    </custom:CustomImageCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+
+        </ListView>
+    </ContentPage.Content>
+</ContentPage>
